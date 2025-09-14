@@ -74,23 +74,3 @@ bash
 Copy code
 cd FDE/project
 npm run dev
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
